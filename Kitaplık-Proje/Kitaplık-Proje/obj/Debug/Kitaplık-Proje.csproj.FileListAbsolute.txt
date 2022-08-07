@@ -1,0 +1,10 @@
+C:\Users\umtcn\source\repos\Kitaplık-Proje\Kitaplık-Proje\bin\Debug\Kitaplık-Proje.exe.config
+C:\Users\umtcn\source\repos\Kitaplık-Proje\Kitaplık-Proje\bin\Debug\Kitaplık-Proje.exe
+C:\Users\umtcn\source\repos\Kitaplık-Proje\Kitaplık-Proje\bin\Debug\Kitaplık-Proje.pdb
+C:\Users\umtcn\source\repos\Kitaplık-Proje\Kitaplık-Proje\obj\Debug\Kitaplık-Proje.csproj.AssemblyReference.cache
+C:\Users\umtcn\source\repos\Kitaplık-Proje\Kitaplık-Proje\obj\Debug\Kitaplık_Proje.Form1.resources
+C:\Users\umtcn\source\repos\Kitaplık-Proje\Kitaplık-Proje\obj\Debug\Kitaplık_Proje.Properties.Resources.resources
+C:\Users\umtcn\source\repos\Kitaplık-Proje\Kitaplık-Proje\obj\Debug\Kitaplık-Proje.csproj.GenerateResource.cache
+C:\Users\umtcn\source\repos\Kitaplık-Proje\Kitaplık-Proje\obj\Debug\Kitaplık-Proje.csproj.CoreCompileInputs.cache
+C:\Users\umtcn\source\repos\Kitaplık-Proje\Kitaplık-Proje\obj\Debug\Kitaplık-Proje.exe
+C:\Users\umtcn\source\repos\Kitaplık-Proje\Kitaplık-Proje\obj\Debug\Kitaplık-Proje.pdb
